@@ -1,0 +1,26 @@
+/**************
+*   Section   *
+**************/
+
+section {
+	height: 100%;
+	margin: 4% 10%;
+}
+
+section p {
+	font-size: 25px;
+	text-align: justify;
+}
+
+/* About Page Paragraph */
+
+#about_p {
+	font-size: 15px;
+	margin: 0 10%;
+}
+
+/********************
+*	Media Screens   *
+********************/
+
+/* Large Screen Only Changes */
